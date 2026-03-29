@@ -30,7 +30,7 @@
 
 ## Data Acquisition
 * **Method:** Online questionnaire (Google Forms)
-* **Time Period:** 16.02.2026 – 15.03.2026
+* **Time Period:** 16.02.2026 - 15.03.2026
 * **Sample:** N = 27 university students
 * **Recruitment:** Convenience sampling (University of Regensburg and surrounding institutions)
 
