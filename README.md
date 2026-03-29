@@ -3,7 +3,7 @@
 ## General Information
 * **Study Title:** How Students Think ChatGPT Works: A Cross-Disciplinary Study of Mental Models
 * **Authors:** Susen Bloos (susen.bloos@stud.uni-regensburg.de), Celina Obermann (celina.obermann@stud.uni-regensburg.de), Simone Pfeiffer (simone.pfeiffer@stud.uni-regensburg.de), Erik Reiswig (erik.reiswig@stud.uni-regensburg.de)
-* **Institution, Course:** University of Regensburg, Interacting with AI Systems
+* **Institution, Course:** University of Regensburg, *Interacting with AI Systems*
 * **Date:** 31.03.2026
 
 ## Description
@@ -38,7 +38,7 @@
 All data were pseudo-anonymized prior to publication.
 Any potentially identifying information (e.g., names in uploaded drawings) was removed.
 All image files were additionally cleaned of metadata to prevent indirect identification.
-The dataset does not allow identification of individual participants, as no direct identifiers were included.
+The dataset does not allow identification of individual participants.
 
 ## Usage and Citation
 The dataset may be used for academic and research purposes. Please cite the study as follows:
