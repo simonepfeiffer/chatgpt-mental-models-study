@@ -11,7 +11,7 @@
 * **Methodology:** Participants completed an online questionnaire (Google Forms) combining open-ended measures (a drawing task and a written description based on a usage scenario in which ChatGPT is consulted for a hotel recommendation) and closed-ended measures (ratings of belief statements). 
 * **Analysis:** The collected data was independently coded by multiple researchers to determine each participant's dominant mental model. Additional variables (e.g., chatbot usage patterns and demographics) were used for descriptive and exploratory analyses. No responses were excluded from the dataset.
 
-## Contents of this Folder
+## Contents of this Repository
 * **/data/data.csv** - Pseudo-anonymized dataset including: 
     * belief statement ratings (1 = strongly disagree to 5 = strongly agree)
     * demographic variables (gender, age, educational level, main study subject) 
