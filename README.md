@@ -23,7 +23,7 @@
     * justifications for ratings 
     * participant ID
     * rater-assigned mental models and final categorization
-* **/images/** - Pseudo-anonymized participant drawings labeled by participant ID
+* **/data/images/** - Pseudo-anonymized participant drawings labeled by participant ID
 * **/materials/form.png** - Full-page screenshot of the Google Form
 
 *Note:* A link to the original Google Form is not included because uploaded drawings contained identifiable information (e.g., participant names).
